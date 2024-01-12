@@ -1,0 +1,1 @@
+[19-May-2022 14:07:06 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`rbx107.truehost.cloud' did not match expected CN=`mail.top10contest.com' in /home/topconte/public_html/class.smtp.php on line 197
